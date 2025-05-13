@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Hisham\Desktop\Computer Engineering\Semester 4\Operating System\Project\DynamicProcessScheduler\PolicyEngine.h(29,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Hisham\Desktop\Computer Engineering\Semester 4\Operating System\Project\DynamicProcessScheduler\SimulationManager.h(39,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  DynamicProcessScheduler.vcxproj -> C:\Users\Hisham\Desktop\Computer Engineering\Semester 4\Operating System\Project\DynamicProcessScheduler\x64\Debug\DynamicProcessScheduler.exe
